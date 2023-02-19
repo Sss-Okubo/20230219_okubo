@@ -16,9 +16,10 @@
 
 ## 使用技術（実行環境）
 - Laravel Framework 8.83.27 / Mysql / Javascript /Bootstrap
--
+
 ## テーブル設計
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/118349010/215927522-cd0c7c68-910f-4380-bdd1-ea2e9cf2325a.png">
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/118349010/219934250-812c2b12-3643-472f-82d3-22332bc511d4.png">
+
 
 ## ER図
-<img width="299" alt="image" src="https://user-images.githubusercontent.com/118349010/215927572-a5650366-79e2-442b-8d41-b680aecf7ccf.png">
+<img width="136" alt="image" src="https://user-images.githubusercontent.com/118349010/219934446-dbdfbd53-c4c2-4d6a-9457-443f3446502b.png">
